@@ -1,0 +1,18 @@
+{
+  "name": "welcome-screen",
+  "main": "./lib/welcome-screen",
+  "version": "0.0.0",
+  "description": "Welcome screen for Atom editor that shows recent projects.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "welcome-screen:toggle"
+  },
+  "repository": "https://github.com/scotthaley/atom-welcome-screen",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
